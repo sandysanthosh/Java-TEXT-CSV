@@ -40,5 +40,12 @@ csvFile - word - PDF- word - PPT:
                 location
                 filename
                 csvcontent - stringbuilder
+                
+## To Download in HTML:
+
+            <p>Click on the image to download it:<p>
+                <a href="F:\starwalt\ava aspose jars\text.txt" download>
+                <img src="F:\starwalt\resale\images\1.jpg" alt="test" width="104" height="142">
+              </a></p>
 
 
